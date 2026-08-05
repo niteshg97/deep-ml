@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T08:33:27.968Z",
+  "generated_at": "2026-10-16T17:07:07.552Z",
   "items": {
     "problem:49": {
       "kind": "problem",
@@ -130,6 +130,32 @@
       "last_pushed_at": "2026-09-28T08:32:49.485Z",
       "language": "python",
       "lines": 24
+    },
+    "problem:275": {
+      "kind": "problem",
+      "id": "275",
+      "title": "Implement Stratified Train-Test Split",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/275",
+      "path": "problems/0275-implement-stratified-train-test-split",
+      "first_solved_at": "2026-08-05T10:17:40.556Z",
+      "last_pushed_at": "2026-08-05T10:17:40.556Z",
+      "language": "python",
+      "lines": 45
+    },
+    "problem:71": {
+      "kind": "problem",
+      "id": "71",
+      "title": "Calculate Root Mean Square Error (RMSE)",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/71",
+      "path": "problems/0071-calculate-root-mean-square-error-rmse",
+      "first_solved_at": "2026-08-05T13:55:57.128Z",
+      "last_pushed_at": "2026-08-05T13:55:57.128Z",
+      "language": "python",
+      "lines": 13
     }
   }
 }
