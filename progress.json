@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T17:07:10.571Z",
+  "generated_at": "2026-10-16T17:07:12.519Z",
   "items": {
     "problem:49": {
       "kind": "problem",
@@ -169,6 +169,32 @@
       "last_pushed_at": "2026-08-06T09:43:07.892Z",
       "language": "python",
       "lines": 9
+    },
+    "problem:14": {
+      "kind": "problem",
+      "id": "14",
+      "title": "Linear Regression Using Normal Equation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/14",
+      "path": "problems/0014-linear-regression-using-normal-equation",
+      "first_solved_at": "2026-08-07T07:13:33.039Z",
+      "last_pushed_at": "2026-08-07T07:13:33.039Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:15": {
+      "kind": "problem",
+      "id": "15",
+      "title": "Linear Regression Using Gradient Descent",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/15",
+      "path": "problems/0015-linear-regression-using-gradient-descent",
+      "first_solved_at": "2026-08-07T09:36:14.137Z",
+      "last_pushed_at": "2026-08-07T09:36:14.137Z",
+      "language": "python",
+      "lines": 26
     }
   }
 }
