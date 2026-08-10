@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T17:07:12.519Z",
+  "generated_at": "2026-10-16T17:07:14.509Z",
   "items": {
     "problem:49": {
       "kind": "problem",
@@ -195,6 +195,58 @@
       "last_pushed_at": "2026-08-07T09:36:14.137Z",
       "language": "python",
       "lines": 26
+    },
+    "problem:22": {
+      "kind": "problem",
+      "id": "22",
+      "title": "Sigmoid Activation Function Understanding",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/22",
+      "path": "problems/0022-sigmoid-activation-function-understanding",
+      "first_solved_at": "2026-08-10T08:16:07.175Z",
+      "last_pushed_at": "2026-08-10T08:16:07.175Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:96": {
+      "kind": "problem",
+      "id": "96",
+      "title": "Implement the Hard Sigmoid Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/96",
+      "path": "problems/0096-implement-the-hard-sigmoid-activation-function",
+      "first_solved_at": "2026-08-10T08:22:51.641Z",
+      "last_pushed_at": "2026-08-10T08:22:51.641Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:263": {
+      "kind": "problem",
+      "id": "263",
+      "title": "Implement Binary Cross-Entropy Loss",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/263",
+      "path": "problems/0263-implement-binary-cross-entropy-loss",
+      "first_solved_at": "2026-08-10T09:42:56.099Z",
+      "last_pushed_at": "2026-08-10T09:42:56.099Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:205": {
+      "kind": "problem",
+      "id": "205",
+      "title": "Entropy & Cross-Entropy",
+      "difficulty": "medium",
+      "category": "Information Theory",
+      "url": "https://www.deep-ml.com/problems/205",
+      "path": "problems/0205-entropy-cross-entropy",
+      "first_solved_at": "2026-08-10T12:12:49.655Z",
+      "last_pushed_at": "2026-08-10T12:12:49.655Z",
+      "language": "python",
+      "lines": 23
     }
   }
 }
