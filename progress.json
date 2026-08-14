@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T17:07:16.530Z",
+  "generated_at": "2026-10-16T17:07:18.639Z",
   "items": {
     "problem:49": {
       "kind": "problem",
@@ -260,6 +260,32 @@
       "last_pushed_at": "2026-08-13T13:15:57.860Z",
       "language": "python",
       "lines": 18
+    },
+    "problem:52": {
+      "kind": "problem",
+      "id": "52",
+      "title": "Implement Recall Metric in Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/52",
+      "path": "problems/0052-implement-recall-metric-in-binary-classification",
+      "first_solved_at": "2026-08-14T08:49:18.711Z",
+      "last_pushed_at": "2026-08-14T08:49:18.711Z",
+      "language": "python",
+      "lines": 26
+    },
+    "problem:75": {
+      "kind": "problem",
+      "id": "75",
+      "title": "Generate a Confusion Matrix for Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/75",
+      "path": "problems/0075-generate-a-confusion-matrix-for-binary-classification",
+      "first_solved_at": "2026-08-14T10:12:26.971Z",
+      "last_pushed_at": "2026-08-14T10:12:26.971Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }
