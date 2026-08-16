@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**22** solved · 22 problems · 0 labs · 0 math
+**23** solved · 23 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -33,6 +33,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Gradient Clipping by Norm](https://www.deep-ml.com/problems/909) | medium | 2026-09-19 | [solution](problems/0909-gradient-clipping-by-norm) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2026-09-16 | [solution](problems/0049-implement-adam-optimization-algorithm) |
 | [Implement Stratified Train-Test Split](https://www.deep-ml.com/problems/275) | medium | 2026-08-05 | [solution](problems/0275-implement-stratified-train-test-split) |
+| [Stochastic Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/802) | medium | 2026-08-16 | [solution](problems/0802-stochastic-gradient-descent-step-for-linear-regression) |
 | [Train Logistic Regression with Gradient Descent](https://www.deep-ml.com/problems/106) | hard | 2026-09-28 | [solution](problems/0106-train-logistic-regression-with-gradient-descent) |
 
 ---
