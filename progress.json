@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T17:07:20.750Z",
+  "generated_at": "2026-10-16T17:07:22.704Z",
   "items": {
     "problem:49": {
       "kind": "problem",
@@ -299,6 +299,45 @@
       "last_pushed_at": "2026-08-16T11:06:45.064Z",
       "language": "python",
       "lines": 27
+    },
+    "problem:64": {
+      "kind": "problem",
+      "id": "64",
+      "title": "Implement Gini Impurity Calculation for a Set of Classes",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/64",
+      "path": "problems/0064-implement-gini-impurity-calculation-for-a-set-of-classes",
+      "first_solved_at": "2026-08-23T04:50:46.390Z",
+      "last_pushed_at": "2026-08-23T04:50:46.390Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:138": {
+      "kind": "problem",
+      "id": "138",
+      "title": "Find the Best Gini-Based Split for a Binary Decision Tree",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/138",
+      "path": "problems/0138-find-the-best-gini-based-split-for-a-binary-decision-tree",
+      "first_solved_at": "2026-08-23T09:05:32.764Z",
+      "last_pushed_at": "2026-08-23T09:05:32.764Z",
+      "language": "python",
+      "lines": 43
+    },
+    "problem:285": {
+      "kind": "problem",
+      "id": "285",
+      "title": "Decision Tree Pruning with Cost-Complexity",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/285",
+      "path": "problems/0285-decision-tree-pruning-with-cost-complexity",
+      "first_solved_at": "2026-08-23T11:59:56.614Z",
+      "last_pushed_at": "2026-08-23T11:59:56.614Z",
+      "language": "python",
+      "lines": 66
     }
   }
 }
