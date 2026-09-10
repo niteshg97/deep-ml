@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T17:07:27.163Z",
+  "generated_at": "2026-10-16T17:07:29.489Z",
   "items": {
     "problem:49": {
       "kind": "problem",
@@ -377,6 +377,45 @@
       "last_pushed_at": "2026-09-09T12:54:51.764Z",
       "language": "python",
       "lines": 57
+    },
+    "problem:42": {
+      "kind": "problem",
+      "id": "42",
+      "title": "Implement ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/42",
+      "path": "problems/0042-implement-relu-activation-function",
+      "first_solved_at": "2026-09-10T09:33:30.409Z",
+      "last_pushed_at": "2026-09-10T09:33:30.409Z",
+      "language": "python",
+      "lines": 3
+    },
+    "problem:44": {
+      "kind": "problem",
+      "id": "44",
+      "title": "Leaky ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/44",
+      "path": "problems/0044-leaky-relu-activation-function",
+      "first_solved_at": "2026-09-10T10:02:23.539Z",
+      "last_pushed_at": "2026-09-10T10:02:23.539Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:1226": {
+      "kind": "problem",
+      "id": "1226",
+      "title": "Implement ReLU and Leaky ReLU",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1226",
+      "path": "problems/1226-implement-relu-and-leaky-relu",
+      "first_solved_at": "2026-09-10T10:31:39.300Z",
+      "last_pushed_at": "2026-09-10T10:31:39.300Z",
+      "language": "python",
+      "lines": 27
     }
   }
 }
