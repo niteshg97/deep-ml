@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T17:07:29.489Z",
+  "generated_at": "2026-10-16T17:07:31.431Z",
   "items": {
     "problem:49": {
       "kind": "problem",
@@ -416,6 +416,58 @@
       "last_pushed_at": "2026-09-10T10:31:39.300Z",
       "language": "python",
       "lines": 27
+    },
+    "problem:23": {
+      "kind": "problem",
+      "id": "23",
+      "title": "Softmax Activation Function Implementation ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/23",
+      "path": "problems/0023-softmax-activation-function-implementation",
+      "first_solved_at": "2026-09-11T08:22:07.780Z",
+      "last_pushed_at": "2026-09-11T08:22:07.780Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:39": {
+      "kind": "problem",
+      "id": "39",
+      "title": "Implementation of Log Softmax Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/39",
+      "path": "problems/0039-implementation-of-log-softmax-function",
+      "first_solved_at": "2026-09-11T08:56:24.091Z",
+      "last_pushed_at": "2026-09-11T08:56:24.091Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:371": {
+      "kind": "problem",
+      "id": "371",
+      "title": "Calculate Number of Parameters in Neural Network",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/371",
+      "path": "problems/0371-calculate-number-of-parameters-in-neural-network",
+      "first_solved_at": "2026-09-11T10:26:56.752Z",
+      "last_pushed_at": "2026-09-11T10:26:56.752Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:291": {
+      "kind": "problem",
+      "id": "291",
+      "title": "Calculate Number of Parameters in Neural Network",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/291",
+      "path": "problems/0291-calculate-number-of-parameters-in-neural-network",
+      "first_solved_at": "2026-09-11T11:36:46.295Z",
+      "last_pushed_at": "2026-09-11T11:36:46.295Z",
+      "language": "python",
+      "lines": 32
     }
   }
 }
