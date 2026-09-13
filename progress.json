@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T17:07:31.431Z",
+  "generated_at": "2026-10-16T17:07:33.416Z",
   "items": {
     "problem:49": {
       "kind": "problem",
@@ -468,6 +468,32 @@
       "last_pushed_at": "2026-09-11T11:36:46.295Z",
       "language": "python",
       "lines": 32
+    },
+    "problem:26": {
+      "kind": "problem",
+      "id": "26",
+      "title": "Implementing Basic Autograd Operations",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/26",
+      "path": "problems/0026-implementing-basic-autograd-operations",
+      "first_solved_at": "2026-09-13T07:23:06.609Z",
+      "last_pushed_at": "2026-09-13T07:23:06.609Z",
+      "language": "python",
+      "lines": 51
+    },
+    "problem:47": {
+      "kind": "problem",
+      "id": "47",
+      "title": "Implement Gradient Descent Variants with MSE Loss",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/47",
+      "path": "problems/0047-implement-gradient-descent-variants-with-mse-loss",
+      "first_solved_at": "2026-09-13T11:29:11.997Z",
+      "last_pushed_at": "2026-09-13T11:29:11.997Z",
+      "language": "python",
+      "lines": 68
     }
   }
 }
