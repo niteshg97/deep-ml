@@ -1,25 +1,37 @@
-import numpy as np
+import torch
+
+
 def activation_derivatives(x: float) -> dict[str, float]:
     """
-    Compute derivatives of Sigmoid, Tanh, and ReLU at x.
+    Compute the derivatives of Sigmoid, Tanh, and ReLU at a given point x
+    using PyTorch autograd.
     """
-    sigmoid = 1 / (1 + np.exp(-x))
-    val1 = sigmoid * (1 - sigmoid)
 
-    tanh = np.tanh(x)
-    val2 = 1 - tanh ** 2
+    # Sigmoid
+    x = torch.tensor(x, requires_grad=True)
+    y = torch.sigmoid(x)
+    y.backward()
 
-    if x > 0:
-        val3 = 1
-    else:
-        val3 = 0
-		
-    dicti = {
-        "sigmoid": val1,
-        "tanh": val2,
-        "relu": val3
+    sigmoid_grad = x.grad.item()
+
+    # Tanh
+    x = torch.tensor(x, requires_grad=True)
+
+    y = torch.tanh(x)
+    y.backward()
+
+    tanh_grad = x.grad.item()
+
+    # ReLU
+    x = torch.tensor(x, requires_grad=True)
+
+    y = torch.relu(x)
+    y.backward()
+
+    relu_grad = x.grad.item()
+
+    return {
+        "sigmoid": sigmoid_grad,
+        "tanh": tanh_grad,
+        "relu": relu_grad
     }
-
-    return dicti
-
-	
