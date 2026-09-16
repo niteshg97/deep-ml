@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T09:51:58.978Z",
+  "generated_at": "2026-09-16T10:30:53.795Z",
   "items": {
     "problem:49": {
       "kind": "problem",
@@ -13,6 +13,19 @@
       "last_pushed_at": "2026-09-16T09:51:58.062Z",
       "language": "python",
       "lines": 25
+    },
+    "problem:377": {
+      "kind": "problem",
+      "id": "377",
+      "title": "Linear Learning Rate Decay",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/377",
+      "path": "problems/0377-linear-learning-rate-decay",
+      "first_solved_at": "2026-09-16T10:30:52.474Z",
+      "last_pushed_at": "2026-09-16T10:30:52.474Z",
+      "language": "python",
+      "lines": 23
     }
   }
 }
