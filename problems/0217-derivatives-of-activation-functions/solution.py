@@ -16,7 +16,6 @@ def activation_derivatives(x: float) -> dict[str, float]:
 
     # Tanh
     x = torch.tensor(x, requires_grad=True)
-
     y = torch.tanh(x)
     y.backward()
 
@@ -24,7 +23,6 @@ def activation_derivatives(x: float) -> dict[str, float]:
 
     # ReLU
     x = torch.tensor(x, requires_grad=True)
-
     y = torch.relu(x)
     y.backward()
 
