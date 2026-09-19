@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**8** solved · 8 problems · 0 labs · 0 math
+**9** solved · 9 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -19,6 +19,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Linear Learning Rate Decay](https://www.deep-ml.com/problems/377) | easy | 2026-09-16 | [solution](problems/0377-linear-learning-rate-decay) |
 | [Derivative of Cross-Entropy Loss w.r.t. Logits](https://www.deep-ml.com/problems/220) | medium | 2026-09-17 | [solution](problems/0220-derivative-of-cross-entropy-loss-w-r-t-logits) |
 | [Gradient Clipping by Global Norm](https://www.deep-ml.com/problems/197) | medium | 2026-09-19 | [solution](problems/0197-gradient-clipping-by-global-norm) |
+| [Gradient Clipping by Norm](https://www.deep-ml.com/problems/909) | medium | 2026-09-19 | [solution](problems/0909-gradient-clipping-by-norm) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2026-09-16 | [solution](problems/0049-implement-adam-optimization-algorithm) |
 
 ---
